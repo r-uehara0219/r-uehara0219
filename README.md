@@ -3,6 +3,5 @@
 
 
 Qiita: https://qiita.com/hara0219  
-AtCoder: https://atcoder.jp/users/haragumi  
 
 👀 I saw you looking at me
